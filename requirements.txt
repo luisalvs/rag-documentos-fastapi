@@ -3,3 +3,6 @@ uvicorn
 openai
 python-dotenv
 PyMuPDF
+python-multipart
+pytest
+httpx
